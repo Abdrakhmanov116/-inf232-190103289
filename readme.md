@@ -5,3 +5,4 @@ i'm from Arys
  .In the specialty IT 
  .I love my specialty 
  .We are 6 people in the family 
+ .I am a very cultured sociable person 
